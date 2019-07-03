@@ -1,7 +1,7 @@
 # Cheque-Information-Retrieval
 A computer vision project for retrieving information from bank cheques.
 
-## Requirements
+### Requirements
 
 Following libraries are required,
 
@@ -14,7 +14,7 @@ Execute,
 
 `pip install -r requirements.txt`
 
-## Steps to run the project
+### Steps to run the project
 
 - Put all your images of cheques in `cheques` directory.
 - Execute,

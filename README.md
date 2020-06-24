@@ -1,11 +1,11 @@
-# Cheque MICR Retriever
+# MICR Retriever
 
 A computer vision project for retrieving MICR codes from bank cheques.
 
 ### How to run,
 
 
-   `git clone https://github.com/omkarudawant/Cheque-MICR-Retriever.git`
+   `git clone https://github.com/omkarudawant/MICR-Retriever.git`
 
    `cd Cheque_Information_Retrieval`
 

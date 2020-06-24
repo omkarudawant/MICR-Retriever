@@ -1,29 +1,16 @@
-# Cheque-Information-Retrieval
+# Cheque MICR Retriever
 
-A computer vision project for retrieving information from bank cheques.
+A computer vision project for retrieving MICR codes from bank cheques.
 
-### Requirements
+### How to run,
 
-`Python 3.6.x`
 
-`opencv 3.4.3`
+   `git clone https://github.com/omkarudawant/Cheque-MICR-Retriever.git`
 
-`numpy 1.16.2`
+   `cd Cheque_Information_Retrieval`
 
-`skimage 0.15.0`
+   `pip install -r requirements.txt`
 
-`imutils 0.5.2`
+   `python extract.py --image image_file_absolute_path`
 
-### Running the project
-
-Follow the commands in your terminal,
-
-`git clone https://github.com/omkar-udawant/Cheque_Information_Retrieval.git`
-
-`cd Cheque_Information_Retrieval`
-
-`pip install -r requirements.txt`
-
-Put your images of cheques in `cheques` directory.
-
-`python extract.py --image image_file_name`
+   Example: `python extract.py --image=.\cheques\1.jpg`

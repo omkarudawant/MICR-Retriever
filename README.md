@@ -7,7 +7,7 @@ A computer vision project for retrieving MICR codes from bank cheques.
 
    `git clone https://github.com/omkarudawant/MICR-Retriever.git`
 
-   `cd Cheque_Information_Retrieval`
+   `cd MICR-Retriever`
 
    `pip install -r requirements.txt`
 
